@@ -1,4 +1,4 @@
-package com.infosys.budgetwise.controller;
+package com.budgetwise.budgetwise_backend.controller;
 
 import com.infosys.budgetwise.model.User;
 import com.infosys.budgetwise.payload.AuthRequest;

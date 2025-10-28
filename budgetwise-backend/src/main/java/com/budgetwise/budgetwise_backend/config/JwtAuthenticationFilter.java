@@ -1,4 +1,4 @@
-package com.infosys.budgetwise.config;
+package com.budgetwise.budgetwise_backend.config;
 
 import com.infosys.budgetwise.service.CustomUserDetailsService;
 import com.infosys.budgetwise.util.JwtUtil;

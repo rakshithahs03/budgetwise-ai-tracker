@@ -1,4 +1,4 @@
-package com.infosys.budgetwise.controller;
+package com.budgetwise.budgetwise_backend.controller;
 
 import com.infosys.budgetwise.model.Budget;
 import com.infosys.budgetwise.model.User;
@@ -11,8 +11,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
-import org.springframework.web.bind.annotation.*;
 import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.web.bind.annotation.*;
 
 import java.math.BigDecimal;
 import java.time.YearMonth;

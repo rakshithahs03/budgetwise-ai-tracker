@@ -1,4 +1,4 @@
-package com.infosys.budgetwise.util;
+package com.budgetwise.budgetwise_backend.util;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

@@ -1,4 +1,4 @@
-package com.infosys.budgetwise.service;
+package com.budgetwise.budgetwise_backend.service;
 
 import com.infosys.budgetwise.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;

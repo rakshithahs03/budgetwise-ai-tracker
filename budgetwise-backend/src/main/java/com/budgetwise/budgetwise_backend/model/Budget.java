@@ -1,8 +1,9 @@
-package com.infosys.budgetwise.model;
+package com.budgetwise.budgetwise_backend.model;
 
 import com.infosys.budgetwise.config.YearMonthAttributeConverter;
 import jakarta.persistence.*;
 import lombok.Data;
+
 import java.math.BigDecimal;
 import java.time.YearMonth;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.infosys.budgetwise.controller;
+package com.budgetwise.budgetwise_backend.controller;
 
 import com.infosys.budgetwise.model.Transaction;
 import com.infosys.budgetwise.model.User;

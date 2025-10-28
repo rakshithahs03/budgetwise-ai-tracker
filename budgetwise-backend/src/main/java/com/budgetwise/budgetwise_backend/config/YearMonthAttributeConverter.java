@@ -1,7 +1,8 @@
-package com.infosys.budgetwise.config;
+package com.budgetwise.budgetwise_backend.config;
 
 import jakarta.persistence.AttributeConverter;
 import jakarta.persistence.Converter;
+
 import java.time.YearMonth;
 import java.time.format.DateTimeFormatter;
 

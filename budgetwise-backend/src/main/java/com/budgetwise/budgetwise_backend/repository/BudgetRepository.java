@@ -1,4 +1,4 @@
-package com.infosys.budgetwise.repository;
+package com.budgetwise.budgetwise_backend.repository;
 
 import com.infosys.budgetwise.model.Budget;
 import com.infosys.budgetwise.model.User;

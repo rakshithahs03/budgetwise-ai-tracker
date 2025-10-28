@@ -1,9 +1,9 @@
-package com.budgetwise.budgetwise_backend.controller;
+package com.budgetwise.backend.controller;
 
-import com.infosys.budgetwise.model.Transaction;
-import com.infosys.budgetwise.model.User;
-import com.infosys.budgetwise.repository.TransactionRepository;
-import com.infosys.budgetwise.repository.UserRepository;
+import com.budgetwise.backend.model.Transaction;
+import com.budgetwise.backend.model.User;
+import com.budgetwise.backend.repository.TransactionRepository;
+import com.budgetwise.backend.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

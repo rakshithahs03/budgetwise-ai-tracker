@@ -1,7 +1,7 @@
-package com.budgetwise.budgetwise_backend.config;
+package com.budgetwise.backend.config;
 
-import com.infosys.budgetwise.service.CustomUserDetailsService;
-import com.infosys.budgetwise.util.JwtUtil;
+import com.budgetwise.backend.service.CustomUserDetailsService;
+import com.budgetwise.backend.util.JwtUtil;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

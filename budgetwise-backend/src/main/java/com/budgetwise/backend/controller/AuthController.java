@@ -1,10 +1,10 @@
-package com.budgetwise.budgetwise_backend.controller;
+package com.budgetwise.backend.controller;
 
-import com.infosys.budgetwise.model.User;
-import com.infosys.budgetwise.payload.AuthRequest;
-import com.infosys.budgetwise.repository.UserRepository;
-import com.infosys.budgetwise.service.CustomUserDetailsService;
-import com.infosys.budgetwise.util.JwtUtil;
+import com.budgetwise.backend.model.User;
+import com.budgetwise.backend.payload.AuthRequest;
+import com.budgetwise.backend.repository.UserRepository;
+import com.budgetwise.backend.service.CustomUserDetailsService;
+import com.budgetwise.backend.util.JwtUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

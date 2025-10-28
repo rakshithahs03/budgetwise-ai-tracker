@@ -1,4 +1,4 @@
-package com.budgetwise.budgetwise_backend;
+package com.budgetwise.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,6 +1,6 @@
-package com.budgetwise.budgetwise_backend.service;
+package com.budgetwise.backend.service;
 
-import com.infosys.budgetwise.repository.UserRepository;
+import com.budgetwise.backend.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

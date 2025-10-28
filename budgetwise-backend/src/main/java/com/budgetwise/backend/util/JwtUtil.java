@@ -1,4 +1,4 @@
-package com.budgetwise.budgetwise_backend.util;
+package com.budgetwise.backend.util;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

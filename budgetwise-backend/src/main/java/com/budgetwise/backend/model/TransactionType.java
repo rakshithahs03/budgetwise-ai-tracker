@@ -1,4 +1,4 @@
-package com.budgetwise.budgetwise_backend.model;
+package com.budgetwise.backend.model;
 
 public enum TransactionType {
     INCOME,

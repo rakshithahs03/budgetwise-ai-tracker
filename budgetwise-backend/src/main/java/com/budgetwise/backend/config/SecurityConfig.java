@@ -1,6 +1,6 @@
-package com.budgetwise.budgetwise_backend.config;
+package com.budgetwise.backend.config;
 
-import com.infosys.budgetwise.service.CustomUserDetailsService;
+import com.budgetwise.backend.service.CustomUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

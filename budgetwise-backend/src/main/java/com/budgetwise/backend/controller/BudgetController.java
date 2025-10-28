@@ -1,10 +1,10 @@
-package com.budgetwise.budgetwise_backend.controller;
+package com.budgetwise.backend.controller;
 
-import com.infosys.budgetwise.model.Budget;
-import com.infosys.budgetwise.model.User;
-import com.infosys.budgetwise.payload.BudgetRequest;
-import com.infosys.budgetwise.repository.BudgetRepository;
-import com.infosys.budgetwise.repository.UserRepository;
+import com.budgetwise.backend.model.Budget;
+import com.budgetwise.backend.model.User;
+import com.budgetwise.backend.payload.BudgetRequest;
+import com.budgetwise.backend.repository.BudgetRepository;
+import com.budgetwise.backend.repository.UserRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

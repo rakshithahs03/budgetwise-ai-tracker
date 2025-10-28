@@ -1,4 +1,4 @@
-package com.budgetwise.budgetwise_backend.config;
+package com.budgetwise.backend.config;
 
 import jakarta.persistence.AttributeConverter;
 import jakarta.persistence.Converter;

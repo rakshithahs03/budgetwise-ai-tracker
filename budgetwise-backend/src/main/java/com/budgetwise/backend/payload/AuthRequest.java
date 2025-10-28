@@ -1,4 +1,4 @@
-package com.budgetwise.budgetwise_backend.payload;
+package com.budgetwise.backend.payload;
 
 import lombok.Data;
 

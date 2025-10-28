@@ -1,6 +1,6 @@
-package com.budgetwise.budgetwise_backend.model;
+package com.budgetwise.backend.model;
 
-import com.infosys.budgetwise.config.YearMonthAttributeConverter;
+import com.budgetwise.backend.config.YearMonthAttributeConverter;
 import jakarta.persistence.*;
 import lombok.Data;
 

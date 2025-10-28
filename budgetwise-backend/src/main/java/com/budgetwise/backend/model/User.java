@@ -1,4 +1,4 @@
-package com.budgetwise.budgetwise_backend.model;
+package com.budgetwise.backend.model;
 
 import jakarta.persistence.*;
 import lombok.Data;

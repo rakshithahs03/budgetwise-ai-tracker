@@ -1,7 +1,7 @@
-package com.budgetwise.budgetwise_backend.repository;
+package com.budgetwise.backend.repository;
 
-import com.infosys.budgetwise.model.Budget;
-import com.infosys.budgetwise.model.User;
+import com.budgetwise.backend.model.Budget;
+import com.budgetwise.backend.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

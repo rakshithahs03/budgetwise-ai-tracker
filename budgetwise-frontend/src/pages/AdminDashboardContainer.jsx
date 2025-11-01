@@ -4,7 +4,7 @@ import Footer from '../Footer.jsx';
 import AdminDashboard from './AdminDashboard.jsx';
 import Profile from './Profile.jsx'; 
 import './AdminLayout.css'; // New Layout file for admin view
-import '../UserDashboard.css'; // Keep this for Header/Footer styles
+//import '../UserDashboard.css'; // Keep this for Header/Footer styles
 
 const AdminDashboardContainer = ({ onLogout }) => {
     const [currentPage, setCurrentPage] = useState('AdminDashboard');
